@@ -3,35 +3,39 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
+- identifier: 2632904c-2527-478d-a8d0-40693f2d892b
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
 - identifier: 871335b1-3426-4c7e-80bf-3eb2354bede0
   name: 'Session 1: Introduction'
   pageRef: /pages/session-1-course-overview
-  weight: 20
+  weight: 30
 - identifier: cf39724a-cd7d-460f-89a6-6c4aedd6c0a7
   name: 'Session 2: Algorithmic Thinking in Autonomous Machine'
   pageRef: /pages/session-2-algorithmic-thinking-in-autonomous-machines
-  weight: 30
+  weight: 40
 - identifier: c298e8f4-6631-49c9-b91b-81584795d2d5
   name: 'Session 3: Systems Thinking in Living Machines'
   pageRef: /pages/session-3-systems-thinking-in-living-machines2
-  weight: 40
+  weight: 50
 - identifier: 46b6da37-9233-4511-b50d-94739749f4ce
   name: 'Session 4: Systems Thinking in Climate and Sustainability Systems'
   pageRef: /pages/session-4-introduction-to-living-machines
-  weight: 50
+  weight: 60
 - identifier: 9a117239-3602-4810-bf2a-7df9b7a5bec0
   name: 'Session 5: Creative Thinking in Digital Cities'
   pageRef: /pages/session-5-systems-thinking-in-climate-and-sustainability-systems
-  weight: 60
+  weight: 70
 - identifier: 7cc81a5a-c2be-46a7-bc38-433ef7008d30
   name: 'Session 6: Synthetic Thinking Challenge'
   pageRef: /pages/session-6-synthetic-thinking-challenge-choosing-your-major-at-mit
-  weight: 70
+  weight: 80
 - identifier: e4207bd0-2075-44bd-b5e6-4018cb4e233f
   name: 'Session 7: Making'
   pageRef: /pages/session-7-making
-  weight: 80
+  weight: 90
 - identifier: 58327500-6ce3-4cb9-ac77-653bd59752e2
   name: References
   pageRef: /pages/references
-  weight: 90
+  weight: 100

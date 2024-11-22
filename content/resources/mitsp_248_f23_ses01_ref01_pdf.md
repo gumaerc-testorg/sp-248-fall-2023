@@ -13,7 +13,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Reflection 1: Ways of Thinking'
+title: 'Reflection1: Ways of Thinking'
 uid: 01c2df14-190f-4c5c-a4bc-e8b0e9e00551
 video_files:
   archive_url: ''

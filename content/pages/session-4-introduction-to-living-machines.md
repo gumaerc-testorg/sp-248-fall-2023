@@ -22,11 +22,11 @@ Suggest improvements to the design of a thermal battery transportation system.
 
 - [CSS thread overview](https://neet.mit.edu/threads/css)
 - Introduction of challenge
-- Team activity: starting {{% resource_link "4f8ea53b-3fa2-4106-bbf5-c03caa4f4e9c" "Application 5a: Describe Alternative System Designs" %}} (in-class assignment)
-- Team presentations of {{% resource_link "4601e71b-bc16-48b8-8205-a3b6be2d06cd" "Application 5: Describe Alternative System Designs" %}} (team assignment)
-- Team activity: {{% resource_link "a5e665c2-fac7-4472-b75f-badd07931691" "Application 6a: Suggest Improvements to System Design" %}} (in-class assignment)
+- Team activity: starting {{% resource_link "4f8ea53b-3fa2-4106-bbf5-c03caa4f4e9c" "Application: Describe Alternative System Designs" %}} (in-class assignment)
+- Team presentations of {{% resource_link "4601e71b-bc16-48b8-8205-a3b6be2d06cd" "Application: Describe Alternative System Designs" %}} (team assignment)
+- Team activity: {{% resource_link "a5e665c2-fac7-4472-b75f-badd07931691" "Application: Suggest Improvements to System Design" %}} (in-class assignment)
 - Q & A with NEET Climate & Sustainability Systems students
 
-{{% resource_link "792d7147-1e67-46b2-bed3-aaf1bd2e23e5" "Application 6: Suggest Improvements to System Design" %}} (team assignment)
+{{% resource_link "792d7147-1e67-46b2-bed3-aaf1bd2e23e5" "Application: Suggest Improvements to System Design" %}} (team assignment)
 
-{{% resource_link "54a6ade2-9a8d-4380-8e2e-a6f207512d8e" "Preparation 3: Creative Thinking" %}}
+{{% resource_link "c2e811a3-aadb-48a4-a72b-bf9821a9d369" "Preparation: Systems Thinking" %}}

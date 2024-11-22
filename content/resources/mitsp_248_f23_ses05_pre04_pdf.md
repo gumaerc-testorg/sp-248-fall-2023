@@ -13,7 +13,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Preparation 4: Ill-Structured Problems'
+title: 'Presentation 4: Ill-Structured Problems'
 uid: 2731b840-190d-49ff-bde8-c489d09e5d1c
 video_files:
   archive_url: ''

@@ -20,10 +20,10 @@ Conceive and design a method or tool to help first-year students at MIT choose t
 
 ## Class Content
 
-- {{% resource_link "35cd0a78-c113-4da7-9883-447f12fd8412" "Session 1 Lecture: Introduction" %}}
+- {{% resource_link "35cd0a78-c113-4da7-9883-447f12fd8412" "Session Lecture: Introduction" %}}
 - Course overview
 - Activity and discussion: how to choose the right major for you at MIT
 
-{{% resource_link "e4e7492d-6efa-4d4c-98b6-c2abe7da8800" "Preparation 1: Algorithmic Thinking" %}}(individual assignment)
+{{% resource_link "2731b840-190d-49ff-bde8-c489d09e5d1c" "Presentation: Ill-Structured Problems" %}}(individual assignment)
 
-{{% resource_link "01c2df14-190f-4c5c-a4bc-e8b0e9e00551" "Reflection 1: Ways of Thinking" %}} (individual assignment)
+{{% resource_link "01c2df14-190f-4c5c-a4bc-e8b0e9e00551" "Reflection: Ways of Thinking" %}} (individual assignment)

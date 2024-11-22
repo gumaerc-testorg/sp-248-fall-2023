@@ -13,7 +13,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Preparation 1: Algorithmic Thinking'
+title: 'Preparation 1:  Algorithmic Thinking'
 uid: e4e7492d-6efa-4d4c-98b6-c2abe7da8800
 video_files:
   archive_url: ''

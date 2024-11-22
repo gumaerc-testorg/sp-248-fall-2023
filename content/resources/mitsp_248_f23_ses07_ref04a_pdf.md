@@ -13,7 +13,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Reflection 4a: Ways of Thinking'
+title: 'Application 4a: Ways of Thinking'
 uid: e6a3153f-7e54-472c-97e6-917cf286b34d
 video_files:
   archive_url: ''

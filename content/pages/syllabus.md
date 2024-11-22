@@ -20,11 +20,11 @@ This course is a first-year discovery class. The subject gives first-year studen
 
 ## Connection with the MIT New Engineering Education Transformation (NEET) Program
 
-This subject is not required for joining the [NEET program](https://neet.mit.edu/about). However, completing this subject affords early application status to the program. Enrolling in this subject does not obligate you to join the program. Passing this subject will provide you with access to early application for the NEET program in spring.
+This subject is not required to join the [NEET program](https://neet.mit.edu/about/program). However, completing this subject affords early application status to the program. Enrolling in this subject does not obligate you to join the program. Passing this subject will give you access to the early application for the NEET program in the spring.
 
 ## The NEET Program
 
-The NEET program was launched in 2017 to reimagine engineering education at MIT. A cross-departmental endeavor with a focus on integrative, project-centric learning, NEET cultivates the essential skills, knowledge, and qualities to address the formidable challenges posed by the 21<sup>st</sup> century. Students join NEET in their sophomore year; in the usual four years, they will earn a degree in their chosen major, and a NEET Certificate in one of the four threads: Autonomous Machines, Living Machines, Climate and Sustainability Systems, or Digital Cities.
+The NEET program was launched in 2017 to reimagine engineering education at MIT. A cross-departmental endeavor with a focus on integrative, project-centric learning, NEET cultivates the essential skills, knowledge, and qualities to address the formidable challenges posed by the 21<sup>st</sup> century. Students join NEET in their sophomore year; in the usual four years, they will earn a degree in their chosen major and a NEET Certificate in one of the four threads: Autonomous Machines, Living Machines, Climate and Sustainability Systems, or Digital Cities.
 
 ## The NEET Ways of Thinking
 
@@ -70,4 +70,4 @@ The sequence of Application assignments is as follows:
 - Application 3: Refine your ideas into useful solutions (team)
 - Application 4: Describe your system (team)
 
-Application assignments 1, 3, and 4 each include one form, while Application assignment 2 includes two forms. For Application 2, creating a separate document with links for each team is suggested.
+Application assignments 1, 3, and 4 each include one form, while Application assignment 2 includes two forms. For Application 2, it is suggested that a separate document with links for each team be created.

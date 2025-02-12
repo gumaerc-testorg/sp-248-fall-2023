@@ -29,6 +29,8 @@ Formulate a search strategy for a minibot looking for balls on a grid on [Scratc
 
 {{% resource_link "62f0996c-a5f9-4cba-b4cc-3477a4a06325" "Minibot Motor Functions Video" %}}
 
+{{% resource_link "c7e486d7-02e7-460a-a385-fade39371922" "Scratch Project Instructor Instructions" %}}
+
 {{% resource_link "d7cd75d5-189d-49e3-b679-9a43e7748c99" "Scratch Project Student Tutorial" %}}
 
 {{% resource_link "05054247-80ad-4b5c-b3d3-c286a2f5e3a1" "Bug Fix Guide" %}}

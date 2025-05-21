@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/sp-248-neet-ways-of-thinking-fall-2023/mitsp_248_f23_ses03_app04.pdf
+file: courses/neet-ways-of-thinking/mitsp_248_f23_ses03_app04.pdf
 file_size: 441837
 file_type: application/pdf
 image_metadata:

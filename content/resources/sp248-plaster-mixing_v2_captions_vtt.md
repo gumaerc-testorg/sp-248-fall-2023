@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/sp-248-neet-ways-of-thinking-fall-2023/sp248-plaster-mixing_v2_captions.vtt
+file: courses/neet-ways-of-thinking/sp248-plaster-mixing_v2_captions.vtt
 file_size: 184
 file_type: text/vtt
 image_metadata:

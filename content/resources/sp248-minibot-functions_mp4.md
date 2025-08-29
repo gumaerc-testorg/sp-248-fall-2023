@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/neet-ways-of-thinking/sp248-minibot-functions_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/sp-248-neet-ways-of-thinking-fall-2023/sp248-minibot-functions_360p_16_9.mp4
 file_size: 3091344
 file_type: video/mp4
 image_metadata:

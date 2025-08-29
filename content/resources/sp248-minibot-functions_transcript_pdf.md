@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/neet-ways-of-thinking/sp248-minibot-functions_transcript.pdf
+file: /ol-ocw-studio-app/courses/sp-248-neet-ways-of-thinking-fall-2023/sp248-minibot-functions_transcript.pdf
 file_size: 13710
 file_type: application/pdf
 image_metadata:

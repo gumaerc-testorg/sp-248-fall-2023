@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/neet-ways-of-thinking/sp248-molding-and-casting_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/sp-248-neet-ways-of-thinking-fall-2023/sp248-molding-and-casting_360p_16_9.mp4
 file_size: 58186395
 file_type: video/mp4
 image_metadata:

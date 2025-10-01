@@ -7,7 +7,7 @@ uid: 2632904c-2527-478d-a8d0-40693f2d892b
 ---
 ## Instructor Interview
 
-The [NEET (MIT New Engineering Education Transformation) program](https://neet.mit.edu/about/program) introduces students to cognitive approaches for tackling complex challenges valued by industry and for thriving in an uncertain and rapidly changing world.
+The {{% resource_link "d2ff3033-bdf2-41ce-bc9f-93565507eeca" "NEET (MIT New Engineering Education Transformation) program" %}} introduces students to cognitive approaches for tackling complex challenges valued by industry and for thriving in an uncertain and rapidly changing world.
 
 Below, Dr. Rea Lavi describes various aspects of how he and his colleagues taught *SP.248 NEET Ways of Thinking* in fall 2023.
 

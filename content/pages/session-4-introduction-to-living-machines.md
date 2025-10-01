@@ -20,7 +20,7 @@ Suggest improvements to the design of a thermal battery transportation system.
 
 ## Class Content
 
-- [CSS thread overview](https://neet.mit.edu/threads/css)
+- {{% resource_link "712e18e0-5479-4daf-8698-b9b652700cb8" "CSS thread overview" %}}
 - Introduction of challenge
 - Team activity: starting {{% resource_link "4f8ea53b-3fa2-4106-bbf5-c03caa4f4e9c" "Application: Describe Alternative System Designs" %}} (in-class assignment)
 - Team presentations of {{% resource_link "4601e71b-bc16-48b8-8205-a3b6be2d06cd" "Application: Describe Alternative System Designs" %}} (team assignment)

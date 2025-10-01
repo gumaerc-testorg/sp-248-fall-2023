@@ -47,8 +47,8 @@ Cast and mold a wooden figurine in plaster.
 
 Product Safety Data Sheets
 
-- [Hydrocal® White Gypsum Cement](https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-hydrocal-white-gypsum-cement-sds-en-52000000092.pdf)
-- [Sargent ART Non-Hardening Modeling Clay](https://images.schoolspecialty.com/images/110-0373_SDS_011023.pdf)
-- [Alja-Safe Crystalline Silica-Free Alginate](https://www.smooth-on.com/tb/files/Alja-Safe.pdf)
+- {{% resource_link "4f66ad2f-e84d-4099-96ac-86fbcbc82880" "Hydrocal® White Gypsum Cement" %}}
+- {{% resource_link "90b8d6f7-e3b1-4843-ad6d-d8864449721d" "Sargent ART Non-Hardening Modeling Clay" %}}
+- {{% resource_link "f88597fd-d9a5-410b-b3ff-4bbc103c95b4" "Alja-Safe Crystalline Silica-Free Alginate" %}}
 
 {{% resource_link "e6a3153f-7e54-472c-97e6-917cf286b34d" "Reflection 4a: Ways of Thinking" %}}

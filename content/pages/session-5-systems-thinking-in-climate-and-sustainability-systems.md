@@ -22,7 +22,7 @@ Generate and refine ideas for making Cambridge more cycler-friendly.
 
 - {{% resource_link "559cac30-0472-4881-afd7-e165d189dec9" "Session Lecture: Creative Thinking in Digital Cities" %}}
 - Instructor solution for {{% resource_link "54a6ade2-9a8d-4380-8e2e-a6f207512d8e" "Preparation: Creative Thinking" %}} (individual assignment)
-- {{% resource_link "5c69d5a2-d2eb-4d2f-8b8d-4664c647a7e8" "Digital Cities thread overview" %}}
+- [Digital Cities thread overview](https://neet.mit.edu/threads/dc)
 - Introduction of challenge
 - Team activity: starting {{% resource_link "8ff9c0e1-187b-4d24-b376-974cebb9feff" "Application: Formulate a Problem Statement" %}} (team assignment)
 - Team presentations of {{% resource_link "fc93e5c9-8979-4ee5-8a38-78dcb9f6da30" "Application: Formulate a Problem Statement" %}}  (team assignment)

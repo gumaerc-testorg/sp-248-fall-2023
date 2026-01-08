@@ -20,7 +20,7 @@ This course is a first-year discovery class. The subject gives first-year studen
 
 ## Connection with the MIT New Engineering Education Transformation (NEET) Program
 
-This subject is not required to join the {{% resource_link "d2ff3033-bdf2-41ce-bc9f-93565507eeca" "NEET program" %}}. However, completing this subject affords early application status to the program. Enrolling in this subject does not obligate you to join the program. Passing this subject will give you access to the early application for the NEET program in the spring.
+This subject is not required to join the [NEET program](https://neet.mit.edu/about/program). However, completing this subject affords early application status to the program. Enrolling in this subject does not obligate you to join the program. Passing this subject will give you access to the early application for the NEET program in the spring.
 
 ## The NEET Program
 
@@ -28,7 +28,7 @@ The NEET program was launched in 2017 to reimagine engineering education at MIT.
 
 ## The NEET Ways of Thinking
 
-The course will briefly introduce the twelve {{% resource_link "9b15889d-5529-4c87-814e-e77e938eff7a" "NEET Ways of Thinking" %}} and the motivation for their inclusion in NEET. The course will focus exclusively on the following NEET Ways of Thinking: Analytical Thinking, Creative Thinking, Making, and Systems Thinking. Each Way of Thinking will be practiced and applied through a case study from a NEET thread.
+The course will briefly introduce the twelve [NEET Ways of Thinking](https://neet.mit.edu/about#waysofthinking) and the motivation for their inclusion in NEET. The course will focus exclusively on the following NEET Ways of Thinking: Analytical Thinking, Creative Thinking, Making, and Systems Thinking. Each Way of Thinking will be practiced and applied through a case study from a NEET thread.
 
 ## Learning Objectives and Outcomes
 
@@ -38,7 +38,7 @@ By the end of the course, students are expected to (1) understand key concepts a
 
 In chronological order:
 
-1. Formulate a search strategy for a minibot looking for balls on a grid on {{% resource_link "24094c62-397d-48ef-a07f-cf979b9c3304" "Scratch" %}}
+1. Formulate a search strategy for a minibot looking for balls on a grid on [Scratch](https://scratch.mit.edu/)
 2. Design a microfluidic device for drug delivery experiments
 3. Suggest improvements to the design of a thermal battery transportation system
 4. Generate and refine ideas for making Cambridge more cycler-friendly

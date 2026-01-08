@@ -16,12 +16,12 @@ Dr. Rea Lavi, Dr. Greg Long
 
 ## Challenge/Case
 
-Formulate a search strategy for a minibot looking for balls on a grid on {{% resource_link "24094c62-397d-48ef-a07f-cf979b9c3304" "Scratch" %}}. (Thanks to NEET Autonomous Machines scholar Timber Carey, '25, 2A-6, for building the project for this challenge on Scratch.)
+Formulate a search strategy for a minibot looking for balls on a grid on [Scratch](https://scratch.mit.edu/). (Thanks to NEET Autonomous Machines scholar Timber Carey, '25, 2A-6, for building the project for this challenge on Scratch.)
 
 ## Class Content
 
 - Instructor solution for {{% resource_link "e4e7492d-6efa-4d4c-98b6-c2abe7da8800" "Preparation:  Algorithmic Thinking" %}} (individual assignment)
-- {{% resource_link "2eb5f783-f53d-409a-917f-8de94118836f" "Autonomous machines thread overview" %}}
+- [Autonomous machines thread overview](https://neet.mit.edu/threads/am)
 - {{% resource_link "3912cf71-c870-45b4-8b1c-525a7672d350" "Session Challenge Presentation" %}}
 - Team activity: starting Application 1
 - Team activity: starting Application 2
